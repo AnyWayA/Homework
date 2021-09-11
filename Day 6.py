@@ -66,7 +66,7 @@ while not at_goal():
 
 
 # Hurdle 4
-# hard version
+# complicated version
 def turn_right():
     turn_left()
     turn_left()
