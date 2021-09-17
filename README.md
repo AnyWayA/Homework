@@ -46,4 +46,3 @@ From schools (Udemy, Otus)
 ### Day 7. Закрепление пройденного и создание игры.
 Игра "Виселица" в репозитории "Hangman-game".
 
-#sluihvftg iiwaigfis,tgsg,gfsUSDkh>SU
