@@ -1,5 +1,5 @@
 # Homework
-From schools (Udemy, Otus)
+Exercises from schools (Udemy, Otus)
 ## Udemy. Challenge 100 days of programming
 ### Day 1. Переменные и простейшие функции (print, input).
 Задания:
